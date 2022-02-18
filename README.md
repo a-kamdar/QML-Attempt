@@ -1,2 +1,2 @@
 # QML-Attempt
-Comparing QNNs vs CNNs
+Comparing QNNs vs CNNs in a personal project. Code currently displays the QNN attempt using tensorflow Quantum, while the classical set was run separately. I found that on a case-by-case basis, QNNs can defintiely outperform CNNs in certain tasks depending on how the grid of qubits is setup. Google's Cirq was used to generate and place qubits in the correct order while Keras was used to train and run the model.
